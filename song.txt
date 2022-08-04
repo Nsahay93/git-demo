@@ -1,1 +1,2 @@
 Hello Friends
+remote changes we are going to handle in git.
